@@ -7,7 +7,7 @@ Online Shopping application developed for the problem given by zoho corporation 
 ## Developed by
 
 Balakrishnan K S 
-Fresher
+(Fresher)
 
 ### mail Id : balakrish90473@gmail.com
 
