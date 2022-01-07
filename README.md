@@ -5,12 +5,11 @@ Online Shopping application developed for the problem given by zoho corporation 
 
 
 ## Developed by
-@
+
 Balakrishnan K S 
-@
-mail Id : balakrish90473@gmail.com
-@
 Fresher
+
+### mail Id : balakrish90473@gmail.com
 
 ### platoform
 The project was developed with java and mysql database
